@@ -1,0 +1,4 @@
+1 - Cada entidade vira um tabela 
+2 - Atributos simples viram colunas 
+3 - Relacionamento 1 para N: a chave de onde tem 1 um vai para N 
+4 – Todo relacionamento N para N, vai criar uma nova tabela. 
